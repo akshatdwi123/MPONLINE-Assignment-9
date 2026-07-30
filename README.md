@@ -2,13 +2,13 @@
 
 **Author:** Akshat Garg  
 
-**Registration Number:** 23BCE10641 
+**Registration Number:** 23BAI10283
 
-**Application Number:** IN26011052
+**Application Number:** IN26012096
 
-**Batch Number:** 1A
+**Batch Number:** 2B
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in
+**Email ID:** akshat.23bai10283@vitbhopal.ac.in
 
 ## Objective
 The objective of this project is to develop a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify pet images into Cats and Dogs to support automated animal identification[cite: 2].
